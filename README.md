@@ -198,5 +198,5 @@ http://<public-ip>
 
 ```bash
 # Detener Airbyte Docker
-docker-compose down
+docker-compose stop
 ```
